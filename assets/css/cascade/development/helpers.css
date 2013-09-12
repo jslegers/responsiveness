@@ -172,7 +172,7 @@
 }
 
 @media \0screen\,screen\9 {
-    .desktop-hidden  {
+    .desktop-hidden,.col.desktop-hidden {
         display:none !important;
     }
 }
