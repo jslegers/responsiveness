@@ -1,3 +1,5 @@
+[![endorse](https://api.coderwall.com/johnslegers/endorsecount.png)](https://coderwall.com/johnslegers)
+
 responsiveness
 ==============
 
